@@ -1,0 +1,19 @@
+{
+    "name": "rickyhandoko/kalkulator",
+    "description": "packagesederhana untuk kalkulator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricky Handoko",
+            "email": "ricky@atomic.id"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RickyHandoko\\Kalkulator\\": "src/"
+        }
+    }
+     
+}
